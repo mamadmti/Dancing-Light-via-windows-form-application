@@ -1,0 +1,20 @@
+C:\Users\Mamadmti\source\repos\project1\project1\bin\Debug\project1.exe.config
+C:\Users\Mamadmti\source\repos\project1\project1\bin\Debug\project1.exe
+C:\Users\Mamadmti\source\repos\project1\project1\bin\Debug\project1.pdb
+C:\Users\Mamadmti\source\repos\project1\project1\obj\Debug\project1.csprojResolveAssemblyReference.cache
+C:\Users\Mamadmti\source\repos\project1\project1\obj\Debug\project1.Form1.resources
+C:\Users\Mamadmti\source\repos\project1\project1\obj\Debug\project1.Properties.Resources.resources
+C:\Users\Mamadmti\source\repos\project1\project1\obj\Debug\project1.csproj.GenerateResource.Cache
+C:\Users\Mamadmti\source\repos\project1\project1\obj\Debug\project1.csproj.CoreCompileInputs.cache
+C:\Users\Mamadmti\source\repos\project1\project1\obj\Debug\project1.exe
+C:\Users\Mamadmti\source\repos\project1\project1\obj\Debug\project1.pdb
+D:\Offline storage\repos\project1\project1\bin\Debug\project1.exe.config
+D:\Offline storage\repos\project1\project1\bin\Debug\project1.exe
+D:\Offline storage\repos\project1\project1\bin\Debug\project1.pdb
+D:\Offline storage\repos\project1\project1\obj\Debug\project1.csprojAssemblyReference.cache
+D:\Offline storage\repos\project1\project1\obj\Debug\project1.Form1.resources
+D:\Offline storage\repos\project1\project1\obj\Debug\project1.Properties.Resources.resources
+D:\Offline storage\repos\project1\project1\obj\Debug\project1.csproj.GenerateResource.cache
+D:\Offline storage\repos\project1\project1\obj\Debug\project1.csproj.CoreCompileInputs.cache
+D:\Offline storage\repos\project1\project1\obj\Debug\project1.exe
+D:\Offline storage\repos\project1\project1\obj\Debug\project1.pdb
